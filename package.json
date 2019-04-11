@@ -1,0 +1,26 @@
+{
+  "name": "proxy_checkout",
+  "version": "1.0.0",
+  "description": "Proxy server for completed App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrsf113-group-2/proxy_checkout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrsf113-group-2/proxy_checkout/issues"
+  },
+  "homepage": "https://github.com/hrsf113-group-2/proxy_checkout#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.11"
+  }
+}
